@@ -1,0 +1,53 @@
+{
+    "furniture": [
+        {
+            "id": 1, 
+            "url": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?cs=srgb&dl=pexels-martin-p%C3%A9chy-1866149.jpg&fm=jpg",
+            "color": "brown",
+            "price": "$250"
+        },
+        {
+            "id": 2, 
+            "url": "https://images.pexels.com/photos/4846097/pexels-photo-4846097.jpeg?cs=srgb&dl=pexels-rachel-claire-4846097.jpg&fm=jpg",
+            "color": "green",
+            "price": "$350"
+        }, 
+        {
+            "id": 3, 
+            "url": "https://micheleomega.typepad.com/.a/6a00d8341d1db453ef014e86e498f8970d-450wi",
+            "color": "white",
+            "price": "$420"
+        },
+        {
+            "id": 4, 
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvb80-ckPZvIorLOgllZFJPFKLl9vfkYttJw&usqp=CAU",
+            "color": "grey",
+            "price": "$300"
+        }, 
+        {
+            "id": 5, 
+            "url": "https://images.pexels.com/photos/6969835/pexels-photo-6969835.jpeg?cs=srgb&dl=pexels-max-vakhtbovych-6969835.jpg&fm=jpg",
+            "color": "dark-brown",
+            "price": "$450"
+        }, 
+        {
+            "id": 6, 
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GgIjgCqWyy5bFv3lF3bsTTi66ceObBRJmyC0VfviK2zdomZ38avzjKEy4ymaxbfVoPk&usqp=CAU",
+            "color": "light-green",
+            "price": "$420"
+        },
+        {
+            "id": 7, 
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXuRsSdm8nQkPGUy6PsTFMWa-_hDIl0oRBaO-e2xYlX99C02A_d_dPKsGXaVriktPRq8&usqp=CAU",
+            "color": "black",
+            "price": "$380"
+        }, 
+        {
+            "id": 8, 
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1q3CQ7dL35zL8hig7yboOA5X6y5S3kUEcoBiKXK4EZ_PDNQ6i2dd98mt9zQiopETxUo&usqp=CAU",
+            "color": "beige",
+            "price": "$280"
+        }
+        
+    ]
+}
